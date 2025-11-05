@@ -19,9 +19,8 @@ This shows my capability to build runnable LangChain chains, use Hugging Face ho
 |----------|----------|
 | Python | Main language |
 | LangChain | LLM orchestration workflow |
-| HuggingFace Router Endpoint | LLM provider (Qwen/Qwen2.5-7B-Instruct) |
+| HuggingFace | LLM provider (Qwen/Qwen2.5-7B-Instruct) |
 | Streamlit | UI layer |
-| python-dotenv | Environment variable management |
 
 ---
 
