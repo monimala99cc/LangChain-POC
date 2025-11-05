@@ -25,16 +25,6 @@ This shows my capability to build runnable LangChain chains, use Hugging Face ho
 
 ---
 
-## 📂 Project Structure
-
-
-
-LangChain-POC/
-│
-├── main.py # Streamlit entry point
-├── lanchain_helper.py # LangChain logic / LLM prompt + extraction
-└── README.md # Documentation
-
 ## Configure API Keys
 
 Create a .env file inside project root:
